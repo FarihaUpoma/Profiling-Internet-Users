@@ -262,5 +262,5 @@ for userA in range(54):
         finalTable.at[ind1, ind2] = pVal
         
 os.chdir("../")
-finalTable.to_excel("finalTable227.xlsx")
+finalTable.to_excel("results/finalTable227.xlsx")
 
