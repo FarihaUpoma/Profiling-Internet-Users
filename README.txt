@@ -4,6 +4,9 @@ LANGUAGE: Python 3
 Tool: Spyder
 OS: MacOS 10.14.4
 
+[Download Input File](https://drive.google.com/drive/folders/1yoCnGBqO9mw9IMo3fTUKkpagqc7FB6ci)
+
+
 Please put the input data in a folder named '/users' before running codes.
 
 There are 3 separate files for 3 time windows- 
